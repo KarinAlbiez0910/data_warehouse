@@ -27,4 +27,4 @@ create_tables.py
 
 etl.py
 
-Create Redshift clsuter via Infrastructure as code, as displayed in the files IaC 1 and IaC 2 under additional_files.
+Create Redshift cluster via Infrastructure as code, as displayed in the files IaC 1 and IaC 2 under additional_files.
