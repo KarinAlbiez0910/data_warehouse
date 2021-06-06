@@ -27,4 +27,4 @@ create_tables.py
 
 etl.py
 
-Run file excerise 2: Infrastructure as code, to set up the redshift cluster.
+Create Redshift clsuter via Infrastructure as code, as displayed in the files IaC 1 and IaC 2 under additional_files.
