@@ -26,3 +26,5 @@ In order to run the project, please kindly run the following files:
 create_tables.py
 
 etl.py
+
+Run file excerise 2: Infrastructure as code, to set up the redshift cluster.
